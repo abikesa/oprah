@@ -26,7 +26,7 @@
 
 <details class="custom-details">
   <summary>+ Expand</summary>
-  <iframe src="../pdfs/CJCS_Memo.pdf" width="100%" height="1000px" style="borders:none"></iframe>
+  <iframe src="pdfs/CJCS_Memo.pdf" width="100%" height="1000px" style="borders:none"></iframe>
   <blockquote style="border-left: 4px solid #ccc; padding-left: 10px; color: #555;">
      <em>
      <p>The first portrait of Gen. Milley, from his time as the U.S. military's top officer, was removed from the Pentagon last week on Inauguration Day less than two hours after President Trump was sworn into office. </p>
